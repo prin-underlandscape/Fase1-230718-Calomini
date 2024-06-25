@@ -1,4 +1,4 @@
-# Fase1-230718-Calomini ([mappa](https://umap.openstreetmap.fr/it/map/fase1-230718-calomini_1085429?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true))
+# Fase1-230718-Calomini ([mappa](https://umap.openstreetmap.fr/it/map/fase1-230718-calomini_1085429))
 Sopralluogo all'eremo di Calomini per visitare il complesso e individuare un riparo sotto roccia segnalatoci nei suoi pressi
 ## POI: Riparo di Calomini
 [<img src='/vignettes/J0pJgj4R.jpg' width='250'/>](/vignettes/J0pJgj4R.jpg) 
