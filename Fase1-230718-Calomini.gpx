@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<gpx version="1.1" creator="PyGPX">
+  <wpt lat="44.055082" lon="10.40843">
+    <ele>500</ele>
+    <name>Riparo di Calomini</name>
+    <desc>Riparo sotto roccia con piccola apertura su parete rocciosa alle spalle del parcheggio dell'Eremo di Calomini, a circa 5 m di altezza.</desc>
+  </wpt>
+  <wpt lat="44.054876" lon="10.407548">
+    <ele>500</ele>
+    <name>Eremo di Calomini</name>
+    <desc>Santuario d'abrì edificato intorno all’anno Mille; da semplice eremo si è evoluto nel tempo via via che cresceva la fama e la venerazione della Vergine della Grotta a partire dal XIV secolo in poi.</desc>
+  </wpt>
+</gpx>
